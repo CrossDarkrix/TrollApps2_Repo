@@ -24,7 +24,7 @@
             ],
             "versions": [
                 {
-                    "version": "3.3.3",
+                    "version": "3.3.3 Beta",
                     "date": "2023-12-10",
                     "localizedDescription": "Added chmod and chown to FSAPI as requested by @roeegh\nFixed PlistPadding Error (iOS16)",
                     "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/3.3.3/misaka-v3.3.3.ipa",
@@ -51,7 +51,7 @@
             ],
             "versions": [
                 {
-                    "version": "3.3.3",
+                    "version": "3.3.3 Beta",
                     "date": "2023-12-10",
                     "localizedDescription": "Added chmod and chown to FSAPI as requested by @roeegh\nFixed PlistPadding Error (iOS16)",
                     "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/3.3.3/misaka-v3.3.3.for.M1.M2.ipa",
