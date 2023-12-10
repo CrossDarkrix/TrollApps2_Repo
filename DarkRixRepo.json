@@ -1,0 +1,131 @@
+{
+    "name": "DarkRix Repository",
+    "subtitle": "DarkRix Repo",
+    "description": "UnOfficial Apps Repo",
+    "iconURL": "https://avatars.githubusercontent.com/u/60906986?v=4",
+    "headerURL": "https://avatars.githubusercontent.com/u/60906986?v=4",
+    "website": "https://github.com/CrossDarkrix",
+    "tintColor": "#bf4204",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "Misaka",
+            "bundleIdentifier": "com.straight-tamago.misakaRS",
+            "developerName": "straight-tamago",
+            "subtitle": "iOS customisation tool for KFD & MDC",
+            "localizedDescription": "iOS customisation tool for KFD & MDC",
+            "iconURL": "https://camo.githubusercontent.com/7f12bdd20bcb27eee222e6b80aeab3dfdb3433cc1ffae32d67040233a8909aea/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313135373735373039333039373532313136322f313138313232343735343939333138343834382f4170705f53746f72652d72656d6f766562672d707265766965772e706e67",
+            "tintColor": "#bf4204",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/straight-tamago/misaka/main/Misaka/images/1.jpg",
+                "https://raw.githubusercontent.com/straight-tamago/misaka/main/Misaka/images/2.jpg",
+                "https://raw.githubusercontent.com/straight-tamago/misaka/main/Misaka/images/3.jpg",
+				"https://raw.githubusercontent.com/straight-tamago/misaka/main/Misaka/images/4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.3.3",
+                    "date": "2023-12-10",
+                    "localizedDescription": "Added chmod and chown to FSAPI as requested by @roeegh\nFixed PlistPadding Error (iOS16)",
+                    "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/3.3.3/misaka-v3.3.3.ipa",
+                    "size": 24020194,
+                    "minOSVersion": "15.0",
+                    "maxOSVersion": "17.0"
+                },
+              ],
+            "appPermissions": {}
+        },
+        {
+            "name": "Misaka(M1 & M2)",
+            "bundleIdentifier": "com.straight-tamago.misakaRS",
+            "developerName": "straight-tamago",
+            "subtitle": "iOS customisation tool for KFD & MDC",
+            "localizedDescription": "iOS customisation tool for KFD & MDC",
+            "iconURL": "https://camo.githubusercontent.com/7f12bdd20bcb27eee222e6b80aeab3dfdb3433cc1ffae32d67040233a8909aea/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313135373735373039333039373532313136322f313138313232343735343939333138343834382f4170705f53746f72652d72656d6f766562672d707265766965772e706e67",
+            "tintColor": "#bf4204",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/straight-tamago/misaka/main/Misaka/images/1.jpg",
+                "https://raw.githubusercontent.com/straight-tamago/misaka/main/Misaka/images/2.jpg",
+                "https://raw.githubusercontent.com/straight-tamago/misaka/main/Misaka/images/3.jpg",
+				"https://raw.githubusercontent.com/straight-tamago/misaka/main/Misaka/images/4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.3.3",
+                    "date": "2023-12-10",
+                    "localizedDescription": "Added chmod and chown to FSAPI as requested by @roeegh\nFixed PlistPadding Error (iOS16)",
+                    "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/3.3.3/misaka-v3.3.3.for.M1.M2.ipa",
+                    "size": 24012775,
+                    "minOSVersion": "15.0",
+                    "maxOSVersion": "17.0"
+                },
+              ],
+            "appPermissions": {}
+        },
+		{
+            "name": "Helium(ABOVE STATUS BAR)",
+            "bundleIdentifier": "com.leminlimez.helium",
+            "developerName": "leminlimez",
+            "subtitle": "Status Bar Widgets for TrollStore iPhones on iOS 15+. Works on Jailbroken devices as well.",
+            "localizedDescription": "Status Bar Widgets for TrollStore iPhones on iOS 15+. Works on Jailbroken devices as well.",
+            "iconURL": "https://raw.githubusercontent.com/leminlimez/Helium/main/layout/Applications/XXTAssistiveTouch.app/icon.png",
+            "tintColor": "#bf4204",
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2023-12-09",
+                    "localizedDescription": "Added new widgets:\n\ntime (SecondHand integration will come at a later date)\ncustom text label\ncurrent capacity (battery percentage) option for battery detail widget\nButton to delete user data\n\nFixed the HUD not being able to load data on rootless jailbreaks\n\nTemporary fix for missing 'Done' button on the update interval setting\n\nSecondary .ipa for having the widgets above the status bar\n\nThis will be implemented better into the app at a later date",
+                    "downloadURL": "https://github.com/leminlimez/Helium/releases/download/v1.1/Helium_ABOVE_STATUS_BAR.tipa",
+                    "size": 4294026,
+                    "minOSVersion": "14.0",
+                    "maxOSVersion": "17.0"
+                },
+              ],
+            "appPermissions": {}
+        },
+		{
+            "name": "Helium(BELOW STATUS BAR)",
+            "bundleIdentifier": "com.leminlimez.helium",
+            "developerName": "leminlimez",
+            "subtitle": "Status Bar Widgets for TrollStore iPhones on iOS 15+. Works on Jailbroken devices as well.",
+            "localizedDescription": "Status Bar Widgets for TrollStore iPhones on iOS 15+. Works on Jailbroken devices as well.",
+            "iconURL": "https://raw.githubusercontent.com/leminlimez/Helium/main/layout/Applications/XXTAssistiveTouch.app/icon.png",
+            "tintColor": "#bf4204",
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2023-12-09",
+                    "localizedDescription": "Added new widgets:\n\ntime (SecondHand integration will come at a later date)\ncustom text label\ncurrent capacity (battery percentage) option for battery detail widget\nButton to delete user data\n\nFixed the HUD not being able to load data on rootless jailbreaks\n\nTemporary fix for missing 'Done' button on the update interval setting\n\nSecondary .ipa for having the widgets above the status bar\n\nThis will be implemented better into the app at a later date",
+                    "downloadURL": "https://github.com/leminlimez/Helium/releases/download/v1.1/Helium_BELOW_STATUS_BAR.tipa",
+                    "size": 4293924,
+                    "minOSVersion": "14.0",
+                    "maxOSVersion": "17.0"
+                },
+              ],
+            "appPermissions": {}
+        },
+		{
+            "name": "AppIndex",
+            "bundleIdentifier": "com.serena.AppIndex",
+            "developerName": "serena",
+            "subtitle": "AppIndex is a new, modern App Explorer/Manager app",
+            "localizedDescription": "AppIndex is a new, modern App Explorer/Manager app",
+            "iconURL": "https://raw.githubusercontent.com/NSAntoine/AppIndex/main/AppIndex/Assets.xcassets/AppIcon.appiconset/Icon%403x.png",
+            "tintColor": "#bf4204",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2023-03-04",
+                    "localizedDescription": "First Release",
+                    "downloadURL": "https://github.com/NSAntoine/AppIndex/releases/download/1.0/AppIndexTrollStore.tipa",
+                    "size": 871661,
+                    "minOSVersion": "13.0",
+                    "maxOSVersion": "16.7"
+                },
+              ],
+            "appPermissions": {}
+        },
+    ],
+    "news": []
+  }
+
